@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add_definition:with:on:" : "HernanWilkinson 3/27/2016 23:34",
+		"apply:with:on:" : "HernanWilkinson 3/27/2016 23:11",
+		"assoc:with:" : "HernanWilkinson 3/19/2016 19:46",
+		"caar:" : "HernanWilkinson 3/19/2016 19:36",
+		"cadar:" : "HernanWilkinson 3/19/2016 19:34",
+		"caddr:" : "HernanWilkinson 3/19/2016 19:35",
+		"cadr:" : "HernanWilkinson 3/19/2016 19:36",
+		"car:" : "HernanWilkinson 3/19/2016 19:18",
+		"cdar:" : "HernanWilkinson 3/19/2016 19:35",
+		"cdr:" : "HernanWilkinson 3/19/2016 20:52",
+		"cons:with:" : "HernanWilkinson 3/19/2016 21:05",
+		"defaultContext" : "HernanWilkinson 3/28/2016 12:00",
+		"eval:on:" : "HernanWilkinson 3/27/2016 23:05",
+		"evalOnDefaultContext:" : "HernanWilkinson 3/28/2016 11:54",
+		"evcon:on:" : "HernanWilkinson 3/19/2016 19:48",
+		"evlist:on:" : "HernanWilkinson 3/19/2016 19:51",
+		"examples" : "HernanWilkinson 3/27/2016 11:53",
+		"import:on:" : "HernanWilkinson 3/28/2016 02:19",
+		"is_atom:" : "HernanWilkinson 3/19/2016 19:38",
+		"is_null:" : "HernanWilkinson 3/19/2016 19:38",
+		"is_symbol:" : "HernanWilkinson 3/19/2016 19:37",
+		"lispInLisp" : "HernanWilkinson 3/27/2016 11:42",
+		"pairlist:wiht:with:" : "HernanWilkinson 3/28/2016 02:30" } }

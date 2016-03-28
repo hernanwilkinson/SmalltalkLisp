@@ -1,0 +1,14 @@
+{
+	"category" : "Lisp-CopiaDeMarasca",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream" ],
+	"name" : "LispParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

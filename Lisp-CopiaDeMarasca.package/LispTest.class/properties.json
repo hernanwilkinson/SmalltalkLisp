@@ -1,0 +1,14 @@
+{
+	"category" : "Lisp-CopiaDeMarasca",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "LispTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

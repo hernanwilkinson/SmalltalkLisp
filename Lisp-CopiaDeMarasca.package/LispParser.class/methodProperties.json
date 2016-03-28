@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"on:" : "HernanWilkinson 3/27/2016 16:23" },
+	"instance" : {
+		"atEnd" : "HernanWilkinson 3/28/2016 02:02",
+		"canBeNumberStartingWith:" : "HernanWilkinson 3/27/2016 22:20",
+		"identifierSeparators" : "HernanWilkinson 3/27/2016 21:44",
+		"initializeOn:" : "HernanWilkinson 3/28/2016 02:05",
+		"parse" : "HernanWilkinson 3/28/2016 02:11",
+		"parseExpression" : "HernanWilkinson 3/28/2016 02:12",
+		"parseIdentifier" : "HernanWilkinson 3/27/2016 22:12",
+		"parseNextIfNone:" : "HernanWilkinson 3/27/2016 22:35",
+		"parseNumber" : "HernanWilkinson 3/27/2016 22:13",
+		"readNextTokenIfNone:" : "HernanWilkinson 3/27/2016 22:18" } }
